@@ -1,0 +1,20 @@
+
+body {background-color: #C6AC8F; color: white; }
+
+table {width: 150%; border-collapse: collapse; margin: 0 auto; border: 5px solid #fff;}
+
+a {color: white; text-decoration: none;}
+
+td {border: 2px solid #fff; padding: 10px;}
+
+h1 {letter-spacing: 10px}
+
+.menu {list-style-type: none; background-color: #3F352C; padding: 10px; text-align: center;}
+
+.content {padding: 25px; text-align: center;}
+
+.table-container {width: 60%; margin: auto;}
+
+.cell-content {text-align: center;}
+
+.cell-content img {max-width: 100px; height: auto; margin-bottom: 10px;}
