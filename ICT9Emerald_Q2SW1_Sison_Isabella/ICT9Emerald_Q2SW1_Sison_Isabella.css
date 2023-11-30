@@ -1,11 +1,15 @@
 
-body {background-color: #C6AC8F; color: white; }
+body {background-color: #C6AC8F; color: #9A784F; }
 
-table {width: 150%; border-collapse: collapse; margin: 0 auto; border: 5px solid #fff;}
+table {width: 150%; border-collapse: collapse; margin: 0 auto; border: 5px solid  #3F301D;}
 
 a {color: white; text-decoration: none;}
 
-td {border: 2px solid #fff; padding: 10px;}
+td {border: #9A784F 2px solid; padding: 10px; background-color: #FFFFED}
+
+dl {margin: 0 auto; text-align: center;}
+
+dd {margin: 0 auto; text-align: center; font-weight: bold; color: #3F301D; font-size: 20px}
 
 h1 {letter-spacing: 10px}
 
@@ -17,4 +21,11 @@ h1 {letter-spacing: 10px}
 
 .cell-content {text-align: center;}
 
-.cell-content img {max-width: 100px; height: auto; margin-bottom: 10px;}
+.cell-content img {max-width: 170px; height: auto; margin-bottom: 10px; border: solid 3px; 
+	border-color: #400000;}
+
+.img {size: 30px}
+
+table {width: 100%; border-collapse: collapse; margin: 0 auto;}
+
+dt {size: 100px}
